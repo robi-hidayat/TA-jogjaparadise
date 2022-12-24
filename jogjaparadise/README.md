@@ -1,11 +1,10 @@
-![logo-transparent](https://user-images.githubusercontent.com/56977388/180226746-a993ceb9-a886-4fc3-9b36-dbcb6cc93d41.png)
-
-
-A social networking Django application (similar to Twitter) written in Python, HTML, CSS &amp; JavaScript.
-
-#### Project Video: [Watch on Youtube](https://www.youtube.com/watch?v=d4_sidaZUZY)
-
-
-<img width="954" alt="socialnetwork" src="https://user-images.githubusercontent.com/56977388/180219431-961e5777-28cf-470e-bd42-1c91fa176642.png">
-# Repository-Baru
-# jogjaparadise
+Tugas akhir KPL pak asnawi membuat website wisata (jogja paradise)
+Anggota kelompok :
+1. Robi Hidayat
+2. Arif hermawan
+3. Irsyah fahri maulana
+4. Muhammad Azwar
+5. Nur kamil
+6. Linawati
+7. Dian retno wulandari
+8. Junita alviyanti
